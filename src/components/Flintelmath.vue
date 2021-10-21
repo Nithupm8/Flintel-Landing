@@ -4,9 +4,9 @@
         <div class="nav">
             <img src="zug logo png 2.png" alt="" class="zuglogo2">
            <img src="Zug logo png.png" alt="" class="zuglogo">
-           <p class="pro">Programs</p>
-           <p class="bene">Benefits</p>
-           <p class="en">Enroll</p>
+          <a href="#program"> <p class="pro">Programs</p> </a>
+         <a href="#Benefits">  <p class="bene">Benefits</p> </a>
+          <a href="#enroll"> <p class="en">Enroll</p></a>
 
         </div>
 
@@ -20,7 +20,7 @@
 
         </div>
 
-        <div class="prog">
+        <div class="prog" id="program">
             <h1 class="prog_title">OUR <span class="clr">PROGRAMS</span></h1>
             <p class="txt">Designed to develop penchant for mathematics and to</p>
             <p class="txt1"> excel in the art of thinking</p>
@@ -64,9 +64,9 @@
        </div>
        </div>
 
-       <div class="benefit">
+       <div class="benefit" id="Benefits">
            <h1 class="benefit_title">BENEFITS OF <span class="clr">  FLUID INTELLIGENCE</span></h1>
-           <p class="txt">Fluid intelligence is the ability to think about & solve complex</p>
+           <p class="txts">Fluid intelligence is the ability to think about & solve complex</p>
             <p class="txt2"> problems through a systematic and structured approach</p>
 </div>
             <div class="critic-content">
@@ -185,7 +185,7 @@
               <h2 class="point4">Enjoy the <span class="pr">Experience</span></h2>
                 <p class="flow_txt">Relax and enjoy the beauty of mathematics</p>
        </div>
-       <div class="enroll">
+       <div class="enroll" id="enroll">
              <h1 class="enroll_title">ENROLL <span class="clr">TODAY</span></h1>
              <p class="txte">Give your child the intellectual immersion you'd never find elsewhere</p>
              <p class="text">Please leave your details and we will contact you</p>
@@ -992,7 +992,12 @@ i{
     font-size: 26px;
     }
     .txt{
-            font-size: 15px;
+            font-size: 14px;
+    margin-top: -11px;
+    color: #000000;
+    }
+    .txts{
+            font-size: 19px;
     margin-top: -11px;
     color: #000000;
     }
@@ -1189,7 +1194,14 @@ i{
             width: fit-content;
     }
     .enroll{
-        display: flex;
+     
+     display: flex;
+    }
+    .benefit_title{
+       font-size: 26px;
+    }
+    .benefit{
+        margin-left: 22px;
     }
 }
 </style>
