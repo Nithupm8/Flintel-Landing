@@ -241,7 +241,7 @@ i{
     height: 38px;
     width: 392px;
     border-radius: 11px;
-    border: 1px solid grey;
+    border: 1px solid darkgrey;
       box-shadow: 2px 4px 1px 1px lightgrey;
 }
 .name{
@@ -250,7 +250,7 @@ i{
     height: 38px;
     width: 392px;
     border-radius: 11px;
-    border: 1px solid grey;
+    border: 1px solid darkgrey;
       box-shadow: 2px 4px 1px 1px lightgrey;
 }
 .text1{
@@ -269,7 +269,7 @@ i{
      height: 38px;
     width: 392px;
      border-radius: 11px;
-     border: 1px solid grey;
+     border: 1px solid darkgrey;
        box-shadow: 2px 4px 1px 1px lightgrey;
 }
 .phone{
@@ -278,7 +278,7 @@ i{
     height: 38px;
     width: 392px;
     border-radius: 11px;
-    border: 1px solid grey;
+    border: 1px solid darkgrey;
       box-shadow: 2px 4px 1px 1px lightgrey;
 }
 .msg{
@@ -287,7 +287,7 @@ i{
     height: 195px;
     width: 817px;
     border-radius: 11px;  
-    border: 1px solid grey;
+    border: 1px solid darkgrey;
       box-shadow: 2px 4px 1px 1px lightgrey;
 }
 .flow_txt{
