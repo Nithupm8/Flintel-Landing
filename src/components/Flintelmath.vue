@@ -251,7 +251,7 @@
 
 }
 .nav{
-   width: 100%;
+   width: 105%;
     height: 80px;
     background-color: #6900c8;
     margin-left: -8px;
