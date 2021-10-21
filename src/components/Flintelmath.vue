@@ -24,26 +24,43 @@
             <h1 class="prog_title">OUR <span class="clr">PROGRAMS</span></h1>
             <p class="txt">Designed to develop penchant for mathematics and to</p>
             <p class="txt1"> excel in the art of thinking</p>
-             <img src="programs icon png.png" alt="" class="prog_icons">
+             
+            
+            
+             
         
         </div>
 
        <div class="prog_names">
            <div>
+              <img src="programs icon1 png.png" alt="" class="prog_icon1">
+              <div> 
               <h3 >FLINTEL BEGINNER</h3> 
               <p class="para">A program for early learners to help them build intuition in math through</p>
        </div>
+       </div>
+
            <div>
+                <img src="programs icon2 png.png" alt="" class="prog_icon1">
+               <div class="prog-text"> 
            <h3 >FLINTEL LEARNER</h3>
             <p class="para">1:1 Math class to help kids get into problem solving zone</p>
            </div>
+           </div>
+
            <div>
+                <img src="programs icon3 png.png" alt="" class="prog_icon1">
+                <div class="prog-text"> 
            <h3 >FLINTEL PHILOMATH</h3>
             <p class="para">A program for Math lovers to learn higher Math than current level</p>
            </div>
+           </div>
        <div>
+           <img src="programs icon4 png.png" alt="" class="prog_icon1">
+           <div class="prog-text"> 
            <h3 >FLINTEL THINKER</h3>
             <p class="para">A program to train young brains to master art of problem solving</p>
+            </div>
        </div>
        </div>
 
@@ -51,39 +68,74 @@
            <h1 class="benefit_title">BENEFITS OF <span class="clr">  FLUID INTELLIGENCE</span></h1>
            <p class="txt">Fluid intelligence is the ability to think about & solve complex</p>
             <p class="txt2"> problems through a systematic and structured approach</p>
+</div>
+            <div class="critic-content">
             <div class="critic">
+                 <img src="benefits icon1 png.png" alt="" class="ben_img">
+                 <div class="benefit-text">
                 <p class="critic_head">Critical Thinking</p>
                 <p class="critic_txt">Enhance cognitive skills of early learners by learning Math the fun way</p>
-
+                 </div>
             </div>
-            <div class="prob">
+            <div class="critic">
+                <img src="benefits icon2 png.png" alt="" class="ben_img">
+                <div class="benefit-text">
                 <p class="critic_head">Problem Solving</p>
                  <p class="prob_txt">Solve non-routine challenging problems to learn the art of problem solving</p>
-
+ </div>
             </div>
-            <div class="compute">
+            <div class="critic">
+                <img src="benefits icon3 png.png" alt="" class="ben_img">
+                <div class="benefit-text">
                 <p class="critic_head">Computational Thinking</p>
                 <p class="comp_txt">Master the skills in Math that serves as building blocks fott technologies of the future</p>
+                 </div>
 
+            
             </div>
-            <img src="benefits icon png.png" alt="" class="ben_img">
+            </div>
+           
+            
+             <div class="benefit-btn">
             <button class="ben_btn">Benefit Today</button>
-
-       </div>
+             </div>
+       
 
        <div class="strength">
            <h1 class="strength_title">OUR <span class="clr">STRENGTHS</span></h1>
             <p class="txt3">Our stats talk about a legacy we have created</p>
-            <img src="strength icons png.png" alt="" class="strength_img">
-            <p class="reg_num">10.7k</p>
-            <p class="stre">Course Registrations</p>
-             <p class="stud_num">5000+</p>
-             <p class="stud">Students</p>
-               <p class="batch_num">40</p>
-             <p class="batch">Batches</p>
-               <p class="coach_num">50</p>
-             <p class="coach">Coaches & Mentors</p>
        </div>
+       <div class="strength-content">
+       <div class="strength-div">
+<img src="strength icons1 png.png" alt="" class="strength_img">
+<div class="strength-text">
+<p class="coach_num">10.7k</p>
+            <p class="coach">Course Registrations</p>
+          </div>
+       </div>
+        <div class="strength-div">
+            <img src="strength icons2 png.png" alt="" class="strength_img">
+            <div class="strength-text2">
+            <p class="coach_num">5000+</p>
+             <p class="coach" >Students</p>
+             </div>
+       </div>
+        <div class="strength-div">
+            <img src="strength icons3 png.png" alt="" class="strength_img">
+            <div class="strength-text3">
+            <p class="coach_num" >40</p>
+             <p class="coach" >Batches</p>
+</div>
+       </div>
+        <div >
+           <img src="strength icons4 png.png" alt="" class="strength_img">
+           <div class="strength-text4">
+              <p class="coach_num">50</p>
+             <p class="coach" >Coaches & Mentors</p>
+           </div>
+
+       </div>
+         </div>
 
        <div class="testimonials">
            <div class="box">
@@ -98,8 +150,10 @@
                 <div>
                 <div class="test1">
                     <div class="user">
-                    <i class="fas fa-user fa-3x"></i></div>
-                    <p class="nam">Narasimha KH</p>
+                    <i class="fas fa-user fa-3x"></i>
+                    <p class="nam">Narasimha KH</p> 
+                    </div>
+                    
                     <p class="text1">I came to know about ZugZwang through internet. It was during the lockdown and I was looking for something constructive to keep my kid busy. ZugZwang was quick in providing online classes. This course helpmed my child to learn new concepts, become more interactive and competitive. He was waiting for the classes every day. These classes improved his intellectual capability. Thank you ZugZwang!</p>
 
                 </div>
@@ -115,7 +169,7 @@
             
             
        </div>
-
+.
        <div class="flowchart">
            <img src="page 4 icons png.png" alt="" class="flow_img">
            <h2 class="one">1</h2>
@@ -133,7 +187,7 @@
        </div>
        <div class="enroll">
              <h1 class="enroll_title">ENROLL <span class="clr">TODAY</span></h1>
-             <p class="txt">Give your child the intellectual immersion you'd never find elsewhere</p>
+             <p class="txte">Give your child the intellectual immersion you'd never find elsewhere</p>
              <p class="text">Please leave your details and we will contact you</p>
         
                  <input type="text" class="name" placeholder="Name"/>
@@ -149,12 +203,15 @@
        </div>
 
        <div class="footer">
+           <div class="footer-logo">
            <img src="zug logo png 2.png" alt="" class="logo">
            <p class="logo1">ZugZwang</p>
+           </div>
+           <div class="footer-end">
            <!-- <hr class="line"> -->
            <p class="year">2012 - 2021 ZugZwang Academy - @zugzwangacademy</p>
             <img src="social media icons png.png" alt="" class="log">
-
+           </div>
        </div>
 
     </div>
@@ -163,8 +220,38 @@
 .flintel{
      font-family: 'Open Sans', sans-serif;
 }
-.nav{
+.prog_icon1{
    
+      height: 207px;
+
+}
+.prog_icon3{
+        height: 231px;
+
+
+    margin-top: -214px;
+
+    margin-left: 283px;
+
+}
+.prog_icon2{
+        margin-top: -206px;
+
+    margin-left: -266px;
+
+    height: 215px;
+
+}
+.prog_icon4{
+    margin-top: -229px;
+
+    margin-left: 753px;
+
+    height: 228px;
+
+}
+.nav{
+   width: 100%;
     height: 80px;
     background-color: #6900c8;
     margin-left: -8px;
@@ -205,18 +292,25 @@ i{
     font-size: 27px;
 }
 .nam{
-    margin-left: 127px;
-    /* margin-top: 54px; */
-    padding-top: 45px;
+    margin-left: 13px;
+    margin-top: 37px;
+   
     font-size: 33px;
     color: #0b4d97;
-      margin-top: -85px;
+   
+}
+.user{
+    display: flex;
+    margin-left: -21px;
 }
 .logo{
    height: 91px;
     margin-left: 23px;
 }
 .footer{
+    display: flex;
+}
+.footer-end{
     display: flex;
 }
 .na{
@@ -231,7 +325,7 @@ i{
 }
 .two{
     margin-left: 215px;
-      margin-top: 156px;
+      margin-top: 160px;
     color: white;
 }
 
@@ -297,22 +391,22 @@ i{
 }
 .point1{
     margin-left: 451px;
-    margin-top: -639px;
+    margin-top: -631px;
     color: #7200ff;
 }
 .point2{
       margin-left: 451px;
-         margin-top: 119px;
+         margin-top: 130px;
      color: #7200ff;
 }
 .point3{
     margin-left: 451px;
-     margin-top: 122px;
+     margin-top: 128px;
      color: #7200ff;
 }
 .point4{
     margin-left: 451px;
-         margin-top: 118px;
+         margin-top: 127px;
      color: #7200ff;
 }
 .pr{
@@ -320,12 +414,12 @@ i{
 }
 .three{
    margin-left: 215px;
-    margin-top: 157px;
+    margin-top: 163px;
     color: white; 
 }
 .four{
     margin-left: 214px;
-           margin-top: 155px;
+           margin-top: 161px;
     color: white;
 }
 .pro{
@@ -437,11 +531,9 @@ i{
 }
 .prog_names{
    display: flex;
-    margin-left: 228px;
-    margin-top: -51px;
+    justify-content: center;
     color: #6900c8;
-    justify-content: space-evenly;
-    margin-right: 151px;
+    
 }
 .para{
       width: 214px;
@@ -459,26 +551,39 @@ i{
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
+        margin-bottom: 90px;
 }
+
+.benefit-btn{
+        display: flex;
+    justify-content: center;
+}
+
 .prog{
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
+        margin-bottom: 29px;
 }
 .critic{
     background: white;
      box-shadow: 0px 0px 8px 0px rgb(0 0 0 / 50%);
     height: 200px;
     width: 339px;
-    margin-top: 78px;
-    margin-left: -705px;
+    
     border-radius: 17px;
       display: flex;
     flex-direction: column;
     align-items: center;
   
 }
+.critic-content{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
   .text{
           margin-bottom: 52px;
   }
@@ -507,11 +612,23 @@ i{
     align-items: center;
 }
 .ben_img{
-    margin-top: -319px;
-    height: 217px;
+        margin-top: -130px;
+    height: 213px;
+   
+}
+.ben_img1{
+     margin-top: -212px;
+    height: 232px;
+    margin-left: 49px;
+
+}
+.ben_img2{
+     margin-top: -231px;
+    height: 239px;
+    margin-left: 740px;
 }
 .critic_head{
-    margin-top: 51px;
+        margin-top: -22px;
     font-size: 25px;
     color: #3f4187;
     font-weight: bold;
@@ -527,7 +644,7 @@ i{
   line-height: 26px;
     font-size: 16px;
     margin-top: -6px;
-    margin-left: 66px;
+    margin-left: 58px;
     color: #000000;
 }
 .comp_txt{
@@ -538,7 +655,7 @@ i{
     color: #000000;
 }
 .ben_btn{
-    margin-top: 157px;
+    
     width: 200px;
     height: 47px;
     border-radius: 6px;
@@ -546,7 +663,7 @@ i{
     color: white;
     background: #39B54A;
     font-size: 19px;
-    margin-left: 47px;
+    
 }
 .strength{
      display: flex;
@@ -560,56 +677,110 @@ i{
     margin-top: 103px;
 }
 .strength_img{
-        height: 410px;
-        margin-left: 16px;
+        height: 388px;
+        
+}
+.strength_img1{
+    margin-top: -387px;
+    
+    margin-left: -280px;
+    height: 401px;
+}
+.strength_img2{
+           margin-top: -401px;
+    margin-left: 316px;
+    height: 373px;
+
+}
+.strength_img3{
+           margin-top: -371px;
+    margin-left: 988px;
+    height: 395px;
+
 }
 .reg_num{
     margin-top: -239px;
-    margin-right: 934px;
+    margin-right: 927px;
     font-size: 40px;
 }
 .stre{
-      margin-right: 926px;
+      margin-right: 911px;
     margin-top: -31px;
-    font-size: 14px;
+    font-size: 16px;
 }
 .stud_num{
     font-size: 40px;
-    margin-top: -93px;
-    margin-right: 297px;
+    margin-top: -83px;
+    margin-right: 278px;
 }
 .stud{
-     font-size: 14px;
+     font-size: 16px;
     margin-top: -32px;
-    margin-right: 311px;
+    margin-right: 289px;
 }
 .batch_num{
     font-size: 40px;
     margin-top: -93px;
-    margin-left: 312px;
+    margin-left: 326px;
 }
 .batch{
-  font-size: 14px;
+  font-size: 16px;
   margin-top: -32px;
-     margin-left: 315px;
+     margin-left: 328px;
     
 }
 .coach_num{
     font-size: 40px;
-    margin-top: -93px;
-        margin-left: 921px;
+    
    
 }
 .coach{
  font-size: 14px;
-    margin-top: -34px;
-    margin-left: 926px;
+    margin-top: -33px;
     
+}
+
+.strength-content{
+    display: flex;
+    justify-content: space-evenly;
+}
+.strength-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        margin-top: -262px;
+    margin-left: 28px;
+}
+
+.strength-text2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        margin-top: -262px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    margin-left: 12px;
+}
+.strength-text3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        margin-top: -262px;
+    margin-left: 12px;
+}
+.strength-text4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        margin-top: -262px;
+       margin-left: -48px;
 }
 .one{
     color: white;
-        margin-top: -725px;
-    margin-left: 215px;
+        margin-top: -720px;
+    margin-left: 214px;
 }
 .box{
     height: 90px;
@@ -723,76 +894,281 @@ i{
     
   
 }
-  /* @media (max-width: 600px) {
+.prog-text{
+    margin-left: 69px;
+}
+.benefit-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-logo{
+    display: flex;
+}
+
+  @media (max-width: 600px) {
       .zuglogo2{
           margin-left: 16px;
           height: 51px;
           margin-top: 15px;
       }
       .zuglogo{
-              height: 40px;
+              height: 43px;
               margin-top: 14px;
       }
       .pro{
               color: white;
-    margin-left: 47px;
+    
     padding-top: 25px;
-    font-size: 12px;
+    font-size: 13px;
+    margin-left: 0;
       }
       .bene{
               color: white;
     padding-top: 25px;
-    font-size: 12px;
+    font-size: 13px;
     margin-left: 19px;
       }
       .en{
               color: white;
     padding-top: 25px;
-    font-size: 12px;
+    font-size: 13px;
     margin-left: 19px;
       }
       .head{
-          margin-top: -446px;
+     margin-top: -232px;
+
     margin-left: 6px;
     color: #6501C6;
     font-size: 28px;
       }
     .banner_text{
-        margin-left: 9px;
+        margin-left: 12px;
     margin-top: -12px;
-    font-size: 9px;
+    font-size: 13px;
     color: #2B0559;
     }
     .btn{
             border: white;
-    height: 36px;
-    width: 90px;
+    height: 46px;
+    width: 127px;
     background: #FF8814;
     color: white;
-    margin-top: 22px;
+    margin-top: 37px;
     margin-left: 6px;
     border-radius: 9px;
-    font-size: 10px;
+    font-size: 13px;
     }
     .btn1{
           border: white;
-    height: 36px;
-    width: 90px;
+    height: 46px;
+    width: 127px;
      color: white;
     margin-top: 22px;
     margin-left: 6px;
     border-radius: 9px;
-    font-size: 10px;
+    font-size: 13px;
     }
     .image{
-        width: 409px;
+            width: 100%;
+        height: 294px;
+        margin-left: -8px ;
     }
     .img{
-            margin-left: -30px;
+            /* margin-left: -30px;
     width: 365px;
     margin-top: 14px;
-    height: 194px;
-        
+    height: 194px; */
+     display: none;   
     }
-} */
+    .prog_title{
+        margin-top: 103px;
+    font-size: 26px;
+    }
+    .txt{
+            font-size: 15px;
+    margin-top: -11px;
+    color: #000000;
+    }
+    .txt1{
+       font-size: 15px; 
+       margin-top: -11px;
+    }
+    .flow_img{
+        height: 464px;
+        margin-left:13px ;
+    }
+    .one{
+            margin-top: -420px;
+    font-size: 15px;
+    margin-left: 33px;
+    }
+    .two{
+        margin-left: 32px;
+    margin-top: 92px;
+   
+    font-size: 15px;
+    }
+    .three{
+            margin-left: 33px;
+    margin-top: 92px;
+    font-size: 16px;
+    }
+    .four{
+        margin-left: 32px;
+    margin-top: 91px;
+    font-size: 16px;
+    }
+    .point1{
+        margin-left: 169px;
+    font-size: 14px;
+    margin-top: -373px;
+    }
+    .flow_txt{
+            font-size: 13px;
+    margin-left: 169px;
+    }
+    .point2{
+        margin-top: 55px;
+    font-size: 15px;
+    margin-left: 170px;
+    }
+    .point3{
+        margin-top: 54px;
+    font-size: 15px;
+    margin-left: 168px;
+    }
+    .point4{
+        margin-top: 48px;
+    font-size: 15px;
+    margin-left: 168px;
+    }
+    .enroll_title{
+        font-size: 26px;
+        margin-top: 110px;
+    }
+    .text{
+        font-size: 13px;
+        margin-top: -5px;
+    }
+    .name{
+        margin-top: 24px;
+    margin-right: 207px;
+    height: 38px;
+    width: 184px;
+    }
+    .email{
+         margin-right: 262px;
+    margin-top: -41px; 
+    height: 38px;
+    width: 184px;  
+    }
+    .phone{
+         margin-top: 24px;
+    margin-right: 207px;
+    height: 38px;
+    width: 184px;
+    }
+    .studname{
+        margin-right: 262px;
+    margin-top: -41px; 
+    height: 38px;
+    width: 184px;
+    }
+    .msg{
+        margin-top: 29px;
+    margin-right: 0px;
+    height: 140px;
+    width: 391px;
+    }
+    .enr_btn{
+        width: 179px;
+    height: 46px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    background: #39B54A;
+    font-size: 21px;
+    margin-left: 5px;
+    margin-top: 57px;
+
+    }
+    .txte{
+        margin-top: -1px;
+        font-size: 13px;
+        color: #000000;
+    }
+    .prog_names{
+            flex-direction: column;
+    align-items: center;
+    }
+    .critic-content{
+            flex-direction: column;
+    align-items: center;
+        margin-bottom: -28px;
+    }
+    .critic{
+        margin-bottom: 104px;
+    }
+    .strength-content{
+        flex-direction: column;
+    align-items: center;
+    }
+    .strength-div{
+            margin-bottom: 68px;
+    }
+    .box{
+        height: 231px;
+    width: 301px;
+    background: #c000ff;
+    color: white;
+    margin-top: 220px;
+    border-radius: 10px;
+    margin-left: 34px;
+    }
+    .test_btn{
+        margin-left: 70px;
+        width: 220px;
+    }
+    .test2{
+        display: none;
+    }
+    .test1{
+       height: auto;
+    width: 343px;
+    margin-left: 4px;
+    }
+    .test_box{
+        height: auto;
+            width: 369px;
+    margin-left: 7px;
+        position: revert;
+    }
+    .flowchart{
+        margin-top: -101px;
+    }
+    .test_img{
+        display: none;
+    }
+    .footer-logo{
+        display: flex;
+        margin-left: 39px;
+    }
+    .footer{
+        flex-direction: column;
+    }
+    .year{
+        margin-top: 1px;
+    margin-left: 6px;
+    font-size: 15px;
+    }
+    .log{
+                margin-bottom: 166px;
+    margin-left: 83px;
+    margin-top: -10px;
+    }
+    .footer-end{
+            display: block;
+    }
+}
 </style>
