@@ -453,6 +453,11 @@ i{
     height: 500px;
     width: 1512px;
 }
+.txte{
+    font-size: 20px;
+    margin-top: -17px;
+    color: #000;
+}
 .img{
     
     
@@ -874,6 +879,7 @@ i{
   font-size: 20px;
     margin-top: -16px;
     color: #383535;
+    
   
 }
 .enr_btn{
@@ -1050,36 +1056,45 @@ i{
     .text{
         font-size: 13px;
         margin-top: -5px;
+        margin-bottom: 1px;
     }
     .name{
-        margin-top: 24px;
-    margin-right: 207px;
-    height: 38px;
-    width: 184px;
+       margin-top: 24px; 
+    width: 279px;
+        margin-bottom: 15px;
+        margin-right: 0;
     }
     .email{
-         margin-right: 262px;
-    margin-top: -41px; 
-    height: 38px;
-    width: 184px;  
+         margin-top: 24px; 
+    width: 279px;  
+      margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+        margin-bottom: 15px;
     }
     .phone{
-         margin-top: 24px;
-    margin-right: 207px;
-    height: 38px;
-    width: 184px;
+        
+    width: 279px;
+    margin-bottom: 15px;
+     margin-top: 0;
+    margin-right: 0;
+      margin-left: 0;
     }
     .studname{
-        margin-right: 262px;
-    margin-top: -41px; 
-    height: 38px;
-    width: 184px;
+        
+    width: 279px;
+        margin-top: 0;
+    margin-right: 0;
+      margin-left: 0;
+        margin-bottom: 15px;
     }
     .msg{
-        margin-top: 29px;
-    margin-right: 0px;
-    height: 140px;
-    width: 391px;
+        margin-top: 24px; 
+    width: 279px;
+        margin-top: 0;
+    margin-right: 0;
+      margin-left: 0;
+        margin-bottom: 15px;
     }
     .enr_btn{
         width: 179px;
@@ -1097,6 +1112,8 @@ i{
         margin-top: -1px;
         font-size: 13px;
         color: #000000;
+        margin-left: 29px;
+    width: 306px;
     }
     .prog_names{
             flex-direction: column;
@@ -1159,8 +1176,8 @@ i{
     }
     .year{
         margin-top: 1px;
-    margin-left: 6px;
-    font-size: 15px;
+    margin-left: 12px;
+    font-size: 13px;
     }
     .log{
                 margin-bottom: 166px;
@@ -1169,6 +1186,10 @@ i{
     }
     .footer-end{
             display: block;
+            width: fit-content;
+    }
+    .enroll{
+        display: flex;
     }
 }
 </style>
