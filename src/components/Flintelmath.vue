@@ -217,6 +217,7 @@
     </div>
 </template>
 <style scoped>
+
 .flintel{
      font-family: 'Open Sans', sans-serif;
 }
@@ -428,6 +429,7 @@ i{
     padding-top: 15px;
     font-size: 17px;
     font-family: 'Open Sans', sans-serif;
+    
 }
 .txt3{
         margin-left: 38px;
@@ -510,6 +512,12 @@ i{
     
     font-size: 20px;
     margin-top: -17px;
+    color: #000000;
+}
+.txts{
+    
+    font-size: 19px;
+    margin-top: -7px;
     color: #000000;
 }
 .txt1{
